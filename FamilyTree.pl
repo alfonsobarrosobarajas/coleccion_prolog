@@ -1,5 +1,20 @@
 % Arbol genealógico
 % Probar consultas
+%                                 James I
+%                                  |
+%                                  |
+%                 +----------------+-----------------+
+%                 |                                  |
+%              Charles I                          Elizabeth
+%                 |                                  |
+%                 |                                  |
+%      +----------+------------+                     |
+%      |          |            |                     |
+%  Catherine   Charles II   James II               Sophia
+%                                                    |
+%                                                    |
+%                                                    |
+%                                                 George I
 
 male(james1).
 male(charles1).
